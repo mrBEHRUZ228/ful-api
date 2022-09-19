@@ -1,0 +1,14 @@
+{
+  "name": "fulapi",
+  "version": "1.0.0",
+  "description": "restfulAPi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kuraloff",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
